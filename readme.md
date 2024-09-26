@@ -1,4 +1,4 @@
-# Git Mastery Workshop
+# Git Mastery Workshop is great!
 
 Welcome to the Git Mastery Workshop! This workshop is designed to help you understand the basics of Git version control and enhance your collaboration skills in software development projects.
 
